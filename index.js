@@ -14,7 +14,7 @@ const PORT = 8002;
 
 const corsOptions = {
   origin: [
-    'https://astrothap.com',
+    'https://www.astrothap.com',
     'http://localhost:5173',
     'http://localhost:5174',
     'http://localhost:3000',
